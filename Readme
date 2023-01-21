@@ -1,0 +1,36 @@
+#ArraySolver
+
+This whole project is based on Basics of Array and Oops concept.
+
+In the project I implemented concepts of data types, conditional statements, loops, Oops Concept and Array.
+Till the date what I learned that I have implement in this project #ArraySolver.
+
+I used If Else condition to perform task based on user input and username password verification.
+
+Used Scanner class to take inputs from the user.
+
+While loop used to keep in that loop till user not logged out of the system.
+
+used interface to declare abstract methods required for the project.
+
+Encapsulation used for the confidential data(username and password) and then accessed by using #getters i.e Read Only 
+
+ 
+
+
+
+Project Description:-
+//username=123456
+//password=123456
+
+1) Log in by using username and password which i have declared already
+
+2) Enter Array size and value to proceed further.
+
+3) Select what operation you want to on Array from the function given below.
+
+4) press 0 to Log Out.
+
+
+E
+ 
